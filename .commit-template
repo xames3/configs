@@ -12,3 +12,5 @@
 #   - ci→         Commits, which change configuration scripts
 #   - revert→     Commits, that undo changes in commits
 <type>(<optional-scope>): <short summary> (#<optional-issue/ticket number>)
+
+Signed-off-by: Akshay Mestry <xa@mes3.dev>
